@@ -108,6 +108,8 @@ static struct clkctl_acpu_speed acpu_freq_tbl_8226_1p6[] = {
 	{ 1, 1401600, ACPUPLL, 5, 0,   CPR_CORNER_10,  0, 7 },
 	{ 1, 1497600, ACPUPLL, 5, 0,   CPR_CORNER_11,  0, 7 },
 	{ 1, 1593600, ACPUPLL, 5, 0,   CPR_CORNER_12,  0, 7 },
+	{ 1, 1693600, ACPUPLL, 5, 0,   CPR_CORNER_13,  0, 7 },
+	{ 1, 1793600, ACPUPLL, 5, 0,   CPR_CORNER_14,  0, 7 },
 	{ 0 }
 };
 
